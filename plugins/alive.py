@@ -79,12 +79,12 @@ async def alive(client: Client, message: Message):
 async def repo(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://te.legra.ph/file/d65ba2c34eb7c058c1c32.jpg",
-        caption=f"""ᴄʜᴇᴄᴋ ɴᴏᴡ😃""", 
+        caption=f"""ᴄʜᴇᴄᴋ ɴᴏɴᴏ✨""", 
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "ᴄʜᴇᴄᴋ ɴᴏᴡ☺", url="https://github.com/Telugucoders/Amalav2.0")
+                        "ᴄʜᴇᴄᴋ ɴᴏᴡ✨", url="https://github.com/Telugucoders/Amalav2.0")
                 ]
             ]
         ),
