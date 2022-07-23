@@ -22,7 +22,7 @@
 
 
 # **ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ᴛᴇʟᴜɢᴜ ᴄᴏᴅᴇʀs ᴏɴ ʜᴇʀᴏᴋᴜ!**  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Telugucoders/Amalamusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Telugucoders/Amalav2.0)
 
 
 ɴᴏᴛᴇ: ᴡʜᴇɴ ᴜ ᴅᴇᴘʟᴏʏ ɪɴ ʜᴇʀᴏᴋᴜ ᴜsᴇ ᴇᴜʀᴏᴘᴇ sᴇʀᴠᴇʀ ᴜ ᴡɪʟʟ ɢᴇᴛ ɴᴏ ʟᴀɢ ɪssᴜᴇ
@@ -57,4 +57,4 @@
 
 
 <h4>ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ᴏɴ ᴏᴋᴛᴇᴛᴏ!</h4>
-<p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/Telugucoders/Amalamusic"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200""/></a>
+<p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/Telugucoders/Amalav2.0"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200""/></a>
