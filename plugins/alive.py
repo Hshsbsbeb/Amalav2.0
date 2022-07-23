@@ -84,7 +84,7 @@ async def repo(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "ᴄʜᴇᴄᴋ ɴᴏᴡ☺", url="https://github.com/Telugucoders/Amalamusic")
+                        "ᴄʜᴇᴄᴋ ɴᴏᴡ☺", url="https://github.com/Telugucoders/Amalav2.0")
                 ]
             ]
         ),
