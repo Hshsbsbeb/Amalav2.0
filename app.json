@@ -3,7 +3,7 @@
     "logo": "https://te.legra.ph/file/48b15ea2011dc80cdcaab.jpg",
     "description": "An Advanced Premium Music Bot For Telegram Groups VC.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/Telugucoders/Amalamusic",
+    "repository": "https://github.com/Telugucoders/Amalav2.0",
     "stack": "container",
     "env": {
         "API_ID": {
