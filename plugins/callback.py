@@ -188,7 +188,7 @@ async def source(_, query: CallbackQuery):
 
 ➠  **ᴛʜɪs ɪs ᴛʜᴇ ᴀᴍᴀʟᴀ ᴍᴜsɪᴄ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ғᴏʀᴋ ᴀɴᴅ ɢɪᴠᴇ ᴀ ⭐ sᴛᴀʀᴛ ᴛᴏ ʀᴇᴘᴏ""", 
         reply_markup=InlineKeyboardMarkup(
-            [[InlineKeyboardButton("sᴏᴜʀᴄᴇ", url="https://github.com/Telugucoders/Amalamusic")]]
+            [[InlineKeyboardButton("sᴏᴜʀᴄᴇ", url="https://github.com/Telugucoders/Amalav2.0")]]
         ),
     ) 
 
